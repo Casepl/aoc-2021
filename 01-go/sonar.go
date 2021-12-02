@@ -28,7 +28,7 @@ func part1() {
 		}
 		prev = i
 	}
-	fmt.Println(max)
+	fmt.Printf("Part 1: %d \n", max)
 }
 
 func part2() {
@@ -73,7 +73,7 @@ func part2() {
 		b = c
 		c = d
 	}
-	fmt.Println(answer)
+	fmt.Printf("Part 2: %d", answer)
 }
 
 func main() {
