@@ -1,4 +1,4 @@
-# [Day 1](https://adventofcode.com/2021/day/1) solution in [Rust](https://www.rust-lang.org/)
+# [Day 1](https://adventofcode.com/2021/day/1) solution in [GO](https://go.dev/)
 
 
 ## Tested on 
