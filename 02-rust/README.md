@@ -1,4 +1,4 @@
-# [Day 1](https://adventofcode.com/2021/day/2) solution in [RUST](https://www.rust-lang.org/)
+# [Day 2](https://adventofcode.com/2021/day/2) solution in [RUST](https://www.rust-lang.org/)
 
 
 ## Tested on 
